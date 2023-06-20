@@ -1,0 +1,20 @@
+studentgroups
+Div_A Marathi 5 Maths 7 Science 7 History 3 Geography 5
+Div_B English 7 Maths 4 Science 3 History 8 Geography 6
+Div_C English 5 Marathi 6 Maths 4 History 5 Geography 5
+Div_D English 5 Marathi 8 Maths 6 Science 3 Geography 5
+Div_E English 8 Marathi 4 Maths 3 Science 3 Geography 5
+teachers
+A.B.C Marathi
+D.E.F English
+G.H.I Maths
+J.K.L Science
+M.N.O Geography
+P.Q.R History
+A.B.C2 Marathi
+D.E.F2 English
+G.H.I2 Maths
+J.K.L2 Science
+M.N.O2 Geography
+P.Q.R2 History
+end
